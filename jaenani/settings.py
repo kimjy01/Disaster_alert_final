@@ -46,9 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'accounts',
-    'boards',
-    'corsheaders',
-    'sslserver',
+    'boards'
 ]
 
 MIDDLEWARE = [
