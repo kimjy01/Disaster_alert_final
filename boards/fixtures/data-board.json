@@ -1,0 +1,1297 @@
+[
+{
+    "model": "boards.regioncategory",
+    "pk": 1,
+    "fields": {
+        "region_name": "강원도",
+        "region_num": 2,
+        "slug": "강원특별자치도",
+        "count": 9
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 2,
+    "fields": {
+        "region_name": "경기도",
+        "region_num": 21,
+        "slug": "경기도",
+        "count": 5
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 3,
+    "fields": {
+        "region_name": "경상남도",
+        "region_num": 53,
+        "slug": "경상남도",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 4,
+    "fields": {
+        "region_name": "경상북도",
+        "region_num": 74,
+        "slug": "경상북도",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 5,
+    "fields": {
+        "region_name": "광주",
+        "region_num": 98,
+        "slug": "광주광역시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 6,
+    "fields": {
+        "region_name": "대구",
+        "region_num": 104,
+        "slug": "대구광역시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 7,
+    "fields": {
+        "region_name": "대전",
+        "region_num": 113,
+        "slug": "대전광역시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 8,
+    "fields": {
+        "region_name": "부산",
+        "region_num": 119,
+        "slug": "부산광역시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 9,
+    "fields": {
+        "region_name": "서울",
+        "region_num": 136,
+        "slug": "서울특별시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 10,
+    "fields": {
+        "region_name": "울산",
+        "region_num": 162,
+        "slug": "울산광역시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 11,
+    "fields": {
+        "region_name": "인천",
+        "region_num": 168,
+        "slug": "인천광역시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 12,
+    "fields": {
+        "region_name": "전라남도",
+        "region_num": 179,
+        "slug": "전라남도",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 13,
+    "fields": {
+        "region_name": "전라북도",
+        "region_num": 202,
+        "slug": "전라북도",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 14,
+    "fields": {
+        "region_name": "제주도",
+        "region_num": 217,
+        "slug": "제주특별자치도",
+        "count": 1
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 15,
+    "fields": {
+        "region_name": "충청남도",
+        "region_num": 222,
+        "slug": "충청남도",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 16,
+    "fields": {
+        "region_name": "충청북도",
+        "region_num": 238,
+        "slug": "충청북도",
+        "count": 0
+    }
+},
+{
+    "model": "boards.regioncategory",
+    "pk": 17,
+    "fields": {
+        "region_name": "세종",
+        "region_num": 6474,
+        "slug": "세종특별자치시",
+        "count": 0
+    }
+},
+{
+    "model": "boards.board",
+    "pk": 2,
+    "fields": {
+        "category": null,
+        "user": 1,
+        "description": "daf",
+        "info_image": "board/2023/07/27/IMG_7867_Xw04WrO.jpg",
+        "create_date": "2023-07-27T14:28:04.352Z",
+        "region": "경기도",
+        "count": 0,
+        "complete": false,
+        "image_del": false
+    }
+},
+{
+    "model": "boards.board",
+    "pk": 3,
+    "fields": {
+        "category": null,
+        "user": 2,
+        "description": ".",
+        "info_image": "board/2023/07/28/1.jpg",
+        "create_date": "2023-07-28T04:48:14.219Z",
+        "region": "서울",
+        "count": 0,
+        "complete": false,
+        "image_del": false
+    }
+},
+{
+    "model": "boards.board",
+    "pk": 4,
+    "fields": {
+        "category": 6,
+        "user": 3,
+        "description": "dfadfadsfadf",
+        "info_image": "community/2023/08/10/IMG_8905.jfif",
+        "create_date": "2023-08-10T10:32:09.735Z",
+        "region": "대구",
+        "count": 0,
+        "complete": false,
+        "image_del": false
+    }
+},
+{
+    "model": "boards.board",
+    "pk": 10,
+    "fields": {
+        "category": 6,
+        "user": 7,
+        "description": "제발 되게 해주세요...\r\n않이 왜 가져가세열...>? 아놔 빡치게 하네 ㅗ\r\n제발요 진짜 왜그러는데요",
+        "info_image": "community/2023/08/16/changsub.jfif",
+        "create_date": "2023-08-11T08:36:41.514Z",
+        "region": "대구",
+        "count": 0,
+        "complete": false,
+        "image_del": false
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 1,
+    "fields": {
+        "community": 2,
+        "user": 1,
+        "create_date": "2023-08-06T08:09:47.075Z",
+        "description": "dafdafdaf",
+        "count": 0
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 2,
+    "fields": {
+        "community": 3,
+        "user": 2,
+        "create_date": "2023-08-06T08:09:47.075Z",
+        "description": "aa",
+        "count": 0
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 3,
+    "fields": {
+        "community": 2,
+        "user": null,
+        "create_date": "2023-08-06T08:09:47.075Z",
+        "description": "ssss",
+        "count": 0
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 4,
+    "fields": {
+        "community": 2,
+        "user": 2,
+        "create_date": "2023-08-06T08:09:47.075Z",
+        "description": "ffff",
+        "count": 0
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 5,
+    "fields": {
+        "community": 3,
+        "user": 1,
+        "create_date": "2023-08-06T08:09:47.075Z",
+        "description": "언니 안뇽 훗",
+        "count": 0
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 6,
+    "fields": {
+        "community": 3,
+        "user": 2,
+        "create_date": "2023-08-06T08:09:47.075Z",
+        "description": "효정이 귀여워",
+        "count": 0
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 7,
+    "fields": {
+        "community": 2,
+        "user": 3,
+        "create_date": "2023-08-10T10:30:40.382Z",
+        "description": "dksl eoqkrdlao",
+        "count": 0
+    }
+},
+{
+    "model": "boards.comment",
+    "pk": 8,
+    "fields": {
+        "community": 4,
+        "user": 3,
+        "create_date": "2023-08-10T10:33:25.341Z",
+        "description": "내 댓글은?",
+        "count": 0
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 1,
+    "fields": {
+        "kind": "메뉴얼",
+        "tags": "#태풍_예보_시 #태풍_특보_시 #태풍_특보_중",
+        "title": "태풍 발생 시 행동요령",
+        "description": "",
+        "created_at": "2023-08-09T06:46:20.484Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 2,
+    "fields": {
+        "kind": "카드뉴스",
+        "tags": "#카드뉴스",
+        "title": "미세먼지, 이대로 괜찮은가?",
+        "description": "",
+        "created_at": "2023-08-09T08:04:49.483Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 3,
+    "fields": {
+        "kind": "카드뉴스",
+        "tags": "#카드뉴스",
+        "title": "폭염대비 건강수칙",
+        "description": "",
+        "created_at": "2023-08-09T08:27:26.548Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 4,
+    "fields": {
+        "kind": "카드뉴스",
+        "tags": "#카드뉴스",
+        "title": "태풍 피해막는 예방수칙",
+        "description": "",
+        "created_at": "2023-08-09T08:31:57.172Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 5,
+    "fields": {
+        "kind": "메뉴얼",
+        "tags": "#지진_예보시 #지진경보",
+        "title": "지진 발생 시 행동요령",
+        "description": "",
+        "created_at": "2023-08-10T16:22:10.916Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 6,
+    "fields": {
+        "kind": "메뉴얼",
+        "tags": "#사전준비 #호우특보 #호우_이후",
+        "title": "호우 발생 시 행동요령",
+        "description": "",
+        "created_at": "2023-08-10T16:22:42.484Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 7,
+    "fields": {
+        "kind": "카드뉴스",
+        "tags": "#카드뉴스",
+        "title": "침수시 차량 탈출법",
+        "description": "",
+        "created_at": "2023-08-10T16:23:08.024Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 8,
+    "fields": {
+        "kind": "카드뉴스",
+        "tags": "#카드뉴스",
+        "title": "여름철 수상레저",
+        "description": "",
+        "created_at": "2023-08-10T16:24:02.147Z"
+    }
+},
+{
+    "model": "boards.cardnews",
+    "pk": 9,
+    "fields": {
+        "kind": "카드뉴스",
+        "tags": "#카드뉴스",
+        "title": "깨끗한 손씻기",
+        "description": "",
+        "created_at": "2023-08-10T16:24:48.100Z"
+    }
+},
+{
+    "model": "boards.cardscrap",
+    "pk": 6,
+    "fields": {
+        "card": 5,
+        "user": 7,
+        "scrap": true
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 1,
+    "fields": {
+        "card": 1,
+        "image1": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-57_001.png",
+        "image2": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_002.png",
+        "image3": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_003.png",
+        "image4": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_004.png",
+        "image5": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_005.png",
+        "image6": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_006.png",
+        "image7": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_007.png",
+        "image8": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_008.png",
+        "image9": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_009.png",
+        "image10": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_011.png",
+        "image11": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_010.png",
+        "sub_title": "태풍 예보 시",
+        "sub_title2": "태풍 특보중",
+        "sub_title3": "태풍 이후",
+        "description": "1. TV, 스마트폰 등으로 기상상황을 파악하고 준비\r\n\r\n2. 창문은 창틀에 단단하게 테이프 등으로 고정\r\n\r\n3. 상수도 공급이 중단될 수 있으므로 욕실 등에 미리 물을 받아둡니다.\r\n\r\n※ 연세 많은 어르신 등은 수시로 안부를 확인",
+        "description_2": "1. 만약 계곡, 하천, 붕괴 우려가 있는 노후건물 등 위험지역이라면 즉시 안전한 곳으로 이동\r\n\r\n2. 창문은 닫고 창문, 유리문에서는 되도록 떨어져 있도록 합니다.\r\n\r\n3. 감전 위험이 있는 집 안팎의 전기시설은 만지지 않습니다.",
+        "description_3": "1. 태풍이 지나간 후에는 피해 상황을 확인하고, 가까운 행정복지센터 등에 피해를 신고하여 보수 ∙ 보강을 하도록 합니다.\r\n\r\n2. 파손된 사유시설을 보수 또는 복구할 때에는 반드시 사진을 찍어 둡니다\r\n\r\n3. 대피 후 집으로 돌아온 경우 반드시 주택 등의 안전 여부를 확인하고 출입합니다\r\n\r\n4. 고립된 지역에서는 무리하게 물을 건너지 말고, 119에 신고하거나 주변에 도움을 요청합니다"
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 2,
+    "fields": {
+        "card": 2,
+        "image1": "cardnews/2023/08/09/0-1.png",
+        "image2": "cardnews/2023/08/09/001.png",
+        "image3": "cardnews/2023/08/09/002.png",
+        "image4": "cardnews/2023/08/09/003.png",
+        "image5": "cardnews/2023/08/09/004.png",
+        "image6": "",
+        "image7": "",
+        "image8": "",
+        "image9": "",
+        "image10": "",
+        "image11": "",
+        "sub_title": "",
+        "sub_title2": "",
+        "sub_title3": "",
+        "description": "",
+        "description_2": "",
+        "description_3": ""
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 3,
+    "fields": {
+        "card": 3,
+        "image1": "cardnews/2023/08/09/2-0썸네일.png",
+        "image2": "cardnews/2023/08/09/2-1.png",
+        "image3": "cardnews/2023/08/09/2-2.png",
+        "image4": "cardnews/2023/08/09/2-3.png",
+        "image5": "cardnews/2023/08/09/2-4.png",
+        "image6": "",
+        "image7": "",
+        "image8": "",
+        "image9": "",
+        "image10": "",
+        "image11": "",
+        "sub_title": "",
+        "sub_title2": "",
+        "sub_title3": "",
+        "description": "",
+        "description_2": "",
+        "description_3": ""
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 4,
+    "fields": {
+        "card": 4,
+        "image1": "cardnews/2023/08/09/2-0썸네일_qpsKPfG.png",
+        "image2": "cardnews/2023/08/09/2-1_R5oiSTz.png",
+        "image3": "cardnews/2023/08/09/2-2_qhUD1Uj.png",
+        "image4": "cardnews/2023/08/09/2-3_k4eS7A1.png",
+        "image5": "cardnews/2023/08/09/2-4_DIlhb2m.png",
+        "image6": "cardnews/2023/08/09/2-5.png",
+        "image7": "cardnews/2023/08/09/2-6.png",
+        "image8": "",
+        "image9": "",
+        "image10": "",
+        "image11": "",
+        "sub_title": "",
+        "sub_title2": "",
+        "sub_title3": "",
+        "description": "",
+        "description_2": "",
+        "description_3": ""
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 5,
+    "fields": {
+        "card": 7,
+        "image1": "cardnews/2023/08/11/4-0.jpeg",
+        "image2": "cardnews/2023/08/11/4-1.png",
+        "image3": "cardnews/2023/08/11/4-2.png",
+        "image4": "cardnews/2023/08/11/4-3.png",
+        "image5": "cardnews/2023/08/11/4-4.png",
+        "image6": "",
+        "image7": "",
+        "image8": "",
+        "image9": "",
+        "image10": "",
+        "image11": "",
+        "sub_title": "",
+        "sub_title2": "",
+        "sub_title3": "",
+        "description": "",
+        "description_2": "",
+        "description_3": ""
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 6,
+    "fields": {
+        "card": 8,
+        "image1": "cardnews/2023/08/11/6-0.jpeg",
+        "image2": "cardnews/2023/08/11/6-1.png",
+        "image3": "cardnews/2023/08/11/6-2.png",
+        "image4": "cardnews/2023/08/11/6-3.png",
+        "image5": "cardnews/2023/08/11/6-4.png",
+        "image6": "cardnews/2023/08/11/6-5.png",
+        "image7": "cardnews/2023/08/11/6-6.png",
+        "image8": "cardnews/2023/08/11/6-7.png",
+        "image9": "",
+        "image10": "",
+        "image11": "",
+        "sub_title": "",
+        "sub_title2": "",
+        "sub_title3": "",
+        "description": "",
+        "description_2": "",
+        "description_3": ""
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 7,
+    "fields": {
+        "card": 9,
+        "image1": "cardnews/2023/08/11/5-0.jpeg",
+        "image2": "cardnews/2023/08/11/5-1.png",
+        "image3": "cardnews/2023/08/11/5-2.png",
+        "image4": "cardnews/2023/08/11/5-3.png",
+        "image5": "cardnews/2023/08/11/5-4.png",
+        "image6": "cardnews/2023/08/11/5-5.png",
+        "image7": "",
+        "image8": "",
+        "image9": "",
+        "image10": "",
+        "image11": "",
+        "sub_title": "",
+        "sub_title2": "",
+        "sub_title3": "",
+        "description": "",
+        "description_2": "",
+        "description_3": ""
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 8,
+    "fields": {
+        "card": 5,
+        "image1": "cardnews/2023/08/13/earthquake1_FI7wzam.png",
+        "image2": "cardnews/2023/08/13/earthquake2_wusc2IS.png",
+        "image3": "cardnews/2023/08/13/earthquake3_JXXD5L6.png",
+        "image4": "cardnews/2023/08/13/earthquake4_906sYsd.png",
+        "image5": "",
+        "image6": "",
+        "image7": "",
+        "image8": "",
+        "image9": "",
+        "image10": "",
+        "image11": "",
+        "sub_title": "실내인 경우",
+        "sub_title2": "실외인 경우",
+        "sub_title3": "산이나 바다에 있는 경우",
+        "description": "실내에 있는 경우 탁자 밑 등 몸을 보호할 수 있는 곳으로 들어가 탁자 다리를 꼭 잡습니다.\r\n\r\n흔들림이 멈추면 문을 열어 출구를 확보한 후 건물에서 빠져나와 운동장, 공원 등 넓은 공간으로 대피합니다.",
+        "description_2": "실외인 경우 가방이나 손으로 머리를 보호하며 운동장, 공원 등 넓은 공간으로 대피합니다.\r\n\r\n이때, 건물은 붕괴 위험이 있으니 건물과 거리를 두고 주위를 살피며 대피해야 합니다.",
+        "description_3": "산이나 바다에 있는 경우, 산사태 또는 절벽 붕괴에 주의하고 안전한 곳으로 대피해야 합니다.\r\n\r\n해안에서 지진해일 특보가 발령된다면 높은 곳으로 신속히 이동해야 합니다."
+    }
+},
+{
+    "model": "boards.imagemulti",
+    "pk": 9,
+    "fields": {
+        "card": 6,
+        "image1": "cardnews/2023/08/13/rain1.png",
+        "image2": "cardnews/2023/08/13/rain2.png",
+        "image3": "cardnews/2023/08/13/rain3.png",
+        "image4": "cardnews/2023/08/13/rain4.png",
+        "image5": "cardnews/2023/08/13/005.png",
+        "image6": "cardnews/2023/08/13/007.png",
+        "image7": "cardnews/2023/08/13/008.png",
+        "image8": "cardnews/2023/08/13/009.png",
+        "image9": "cardnews/2023/08/13/011.png",
+        "image10": "cardnews/2023/08/13/012.png",
+        "image11": "",
+        "sub_title": "호우 사전준비",
+        "sub_title2": "호우특보 중",
+        "sub_title3": "호우 이후",
+        "description": "1. 내가 거주하거나 생활하는 지역의 홍수, 침수(저지대), 산사태, 해일 등 재해위험 요인을 미리 확인합니다.\r\n\r\n2. 대피장소, 대피경로 등에 대해서는 지속적으로 관심을 가지고 알아둡니다.",
+        "description_2": "1. 차량은 속도를 줄여 운행하고, 급류에 휩쓸릴 수 있는 지역이나 침수 위험지역엔 접근하지 않습니다.\r\n\r\n2. 특히, 이미 침수된 도로, 지하차도 등의 위험한 곳은 통행을 하지 않고 주변에 있는 사람들에게 알려 진입하지 않도록 합니다.\r\n\r\n3. 만약 계곡, 하천, 붕괴 우려가 있는 노후건물 등 위험지역이라면 즉시 안전한 곳으로 이동합니다.\r\n\r\n4. 창문은 닫고 창문, 유리문에서는 되도록 떨어져 있도록 합니다.\r\n\r\n5. 감전 위험이 있는 집 안팎의 전기시설은 만지지 않습니다.",
+        "description_3": "- 호우가 지나간 후에는 피해 상황을 확인하고, 가까운 행정복지센터 등에 피해를 신고하여 보수 ∙ 보강을 하도록 합니다.\r\n\r\n- 파손된 사유시설을 보수 또는 복구할 때에는 반드시 사진을 찍어 둡니다.\r\n\r\n- 대피 후 집으로 돌아온 경우 반드시 주택 등의 안전 여부를 확인하고 출입합니다.\r\n\r\n- 고립된 지역에서는 무리하게 물을 건너지 말고, 119에 신고하거나 주변에 도움을 요청합니다."
+    }
+},
+{
+    "model": "boards.banner",
+    "pk": 1,
+    "fields": {
+        "bannerwinner": "banner/2023/08/16/earthquake.png",
+        "banner_title": "지진, 어떻게 해야할까?"
+    }
+},
+{
+    "model": "boards.banner",
+    "pk": 2,
+    "fields": {
+        "bannerwinner": "banner/2023/08/16/heavyrain.png",
+        "banner_title": "태풍, 어떻게 해야할까?"
+    }
+},
+{
+    "model": "boards.banner",
+    "pk": 3,
+    "fields": {
+        "bannerwinner": "banner/2023/08/16/typhoon_yrMAHwa.png",
+        "banner_title": "호우, 어떻게 해야할까?"
+    }
+},
+{
+    "model": "boards.banner",
+    "pk": 5,
+    "fields": {
+        "bannerwinner": "banner/2023/08/16/finedust.png",
+        "banner_title": "미세먼지, 어떻게 해야할까?"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 1,
+    "fields": {
+        "card": 1,
+        "title_cd": 1,
+        "title_nm": "태풍 예보 시",
+        "description": "1. TV, 스마트폰 등으로 기상상황을 파악하고 준비\n\n2. 창문은 창틀에 단단하게 테이프 등으로 고정\n\n3. 상수도 공급이 중단될 수 있으므로 욕실 등에 미리 물을 받아둡니다.\n\n※ 연세 많은 어르신 등은 수시로 안부를 확인",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 2,
+    "fields": {
+        "card": 1,
+        "title_cd": 2,
+        "title_nm": "태풍 특보중",
+        "description": "1. 만약 계곡, 하천, 붕괴 우려가 있는 노후건물 등 위험지역이라면 즉시 안전한 곳으로 이동\n\n2. 창문은 닫고 창문, 유리문에서는 되도록 떨어져 있도록 합니다.\n\n3. 감전 위험이 있는 집 안팎의 전기시설은 만지지 않습니다.",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 3,
+    "fields": {
+        "card": 1,
+        "title_cd": 3,
+        "title_nm": "태풍 이후",
+        "description": "1. 태풍이 지나간 후에는 피해 상황을 확인하고, 가까운 행정복지센터 등에 피해를 신고하여 보수 ∙ 보강을 하도록 합니다.\n\n2. 파손된 사유시설을 보수 또는 복구할 때에는 반드시 사진을 찍어 둡니다\n\n3. 대피 후 집으로 돌아온 경우 반드시 주택 등의 안전 여부를 확인하고 출입합니다\n\n4. 고립된 지역에서는 무리하게 물을 건너지 말고, 119에 신고하거나 주변에 도움을 요청합니다",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 4,
+    "fields": {
+        "card": 5,
+        "title_cd": 1,
+        "title_nm": "실내인 경우",
+        "description": "실내에 있는 경우 탁자 밑 등 몸을 보호할 수 있는 곳으로 들어가 탁자 다리를 꼭 잡습니다.\n\n흔들림이 멈추면 문을 열어 출구를 확보한 후 건물에서 빠져나와 운동장, 공원 등 넓은 공간으로 대피합니다.",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 5,
+    "fields": {
+        "card": 5,
+        "title_cd": 2,
+        "title_nm": "실외인 경우",
+        "description": "실외인 경우 가방이나 손으로 머리를 보호하며 운동장, 공원 등 넓은 공간으로 대피합니다.\n\n이때, 건물은 붕괴 위험이 있으니 건물과 거리를 두고 주위를 살피며 대피해야 합니다.",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 6,
+    "fields": {
+        "card": 5,
+        "title_cd": 3,
+        "title_nm": "산이나 바다에 있는 경우",
+        "description": "산이나 바다에 있는 경우, 산사태 또는 절벽 붕괴에 주의하고 안전한 곳으로 대피해야 합니다.\n\n해안에서 지진해일 특보가 발령된다면 높은 곳으로 신속히 이동해야 합니다.",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 7,
+    "fields": {
+        "card": 6,
+        "title_cd": 1,
+        "title_nm": "호우 사전준비",
+        "description": "1. 내가 거주하거나 생활하는 지역의 홍수, 침수(저지대), 산사태, 해일 등 재해위험 요인을 미리 확인합니다.\n\n2. 대피장소, 대피경로 등에 대해서는 지속적으로 관심을 가지고 알아둡니다.",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 8,
+    "fields": {
+        "card": 6,
+        "title_cd": 2,
+        "title_nm": "호우 특보중",
+        "description": "1. 차량은 속도를 줄여 운행하고, 급류에 휩쓸릴 수 있는 지역이나 침수 위험지역엔 접근하지 않습니다.\n\n2. 특히, 이미 침수된 도로, 지하차도 등의 위험한 곳은 통행을 하지 않고 주변에 있는 사람들에게 알려 진입하지 않도록 합니다.\n\n3. 만약 계곡, 하천, 붕괴 우려가 있는 노후건물 등 위험지역이라면 즉시 안전한 곳으로 이동합니다.\n\n4. 창문은 닫고 창문, 유리문에서는 되도록 떨어져 있도록 합니다.\n\n5. 감전 위험이 있는 집 안팎의 전기시설은 만지지 않습니다.",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 9,
+    "fields": {
+        "card": 6,
+        "title_cd": 3,
+        "title_nm": "호우 이후",
+        "description": "- 호우가 지나간 후에는 피해 상황을 확인하고, 가까운 행정복지센터 등에 피해를 신고하여 보수 ∙ 보강을 하도록 합니다.\n\n- 파손된 사유시설을 보수 또는 복구할 때에는 반드시 사진을 찍어 둡니다.\n\n- 대피 후 집으로 돌아온 경우 반드시 주택 등의 안전 여부를 확인하고 출입합니다.\n\n- 고립된 지역에서는 무리하게 물을 건너지 말고, 119에 신고하거나 주변에 도움을 요청합니다.",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 10,
+    "fields": {
+        "card": 7,
+        "title_cd": 1,
+        "title_nm": "침수차량 탈출법",
+        "description": "description...",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 11,
+    "fields": {
+        "card": 9,
+        "title_cd": 1,
+        "title_nm": "감염병 예방",
+        "description": "description...",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 12,
+    "fields": {
+        "card": 8,
+        "title_cd": 1,
+        "title_nm": "여름철 안전규칙",
+        "description": "description...",
+        "create_date": "2023-08-14T04:03:23.809Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 13,
+    "fields": {
+        "card": 2,
+        "title_cd": 1,
+        "title_nm": "미세먼지 괜찮은가?",
+        "description": "description",
+        "create_date": "2023-08-15T04:21:37.335Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 14,
+    "fields": {
+        "card": 3,
+        "title_cd": 1,
+        "title_nm": "폭염대비 건강수칙",
+        "description": "description",
+        "create_date": "2023-08-15T04:23:38.099Z"
+    }
+},
+{
+    "model": "boards.behavior",
+    "pk": 15,
+    "fields": {
+        "card": 4,
+        "title_cd": 1,
+        "title_nm": "태풍 예방수칙",
+        "description": "description",
+        "create_date": "2023-08-15T04:24:42.474Z"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 1,
+    "fields": {
+        "behavior": 1,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-57_001.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 2,
+    "fields": {
+        "behavior": 1,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_002.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 3,
+    "fields": {
+        "behavior": 1,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_003.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 4,
+    "fields": {
+        "behavior": 1,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_004.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 5,
+    "fields": {
+        "behavior": 2,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_005.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 6,
+    "fields": {
+        "behavior": 2,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_006.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 7,
+    "fields": {
+        "behavior": 2,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_007.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 8,
+    "fields": {
+        "behavior": 3,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_008.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 9,
+    "fields": {
+        "behavior": 3,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_009.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 10,
+    "fields": {
+        "behavior": 3,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_011.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 11,
+    "fields": {
+        "behavior": 3,
+        "image": "cardnews/2023/08/09/KakaoTalk_Photo_2023-08-09-13-07-58_010.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 12,
+    "fields": {
+        "behavior": 4,
+        "image": "cardnews/2023/08/13/earthquake3_JXXD5L6.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 13,
+    "fields": {
+        "behavior": 5,
+        "image": "cardnews/2023/08/13/earthquake4_906sYsd.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 14,
+    "fields": {
+        "behavior": 6,
+        "image": "cardnews/2023/08/13/earthquake1_FI7wzam.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 15,
+    "fields": {
+        "behavior": 6,
+        "image": "cardnews/2023/08/13/earthquake2_wusc2IS.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 16,
+    "fields": {
+        "behavior": 7,
+        "image": "cardnews/2023/08/13/rain1.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 17,
+    "fields": {
+        "behavior": 7,
+        "image": "cardnews/2023/08/13/rain2.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 18,
+    "fields": {
+        "behavior": 8,
+        "image": "cardnews/2023/08/13/rain3.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 19,
+    "fields": {
+        "behavior": 8,
+        "image": "cardnews/2023/08/13/rain4.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 20,
+    "fields": {
+        "behavior": 8,
+        "image": "cardnews/2023/08/13/005.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 21,
+    "fields": {
+        "behavior": 8,
+        "image": "cardnews/2023/08/13/007.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 22,
+    "fields": {
+        "behavior": 8,
+        "image": "cardnews/2023/08/13/008.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 23,
+    "fields": {
+        "behavior": 9,
+        "image": "cardnews/2023/08/13/009.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 24,
+    "fields": {
+        "behavior": 9,
+        "image": "cardnews/2023/08/13/011.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 25,
+    "fields": {
+        "behavior": 9,
+        "image": "cardnews/2023/08/13/012.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 27,
+    "fields": {
+        "behavior": 10,
+        "image": "/static/image/floodedCar_001.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 28,
+    "fields": {
+        "behavior": 10,
+        "image": "/static/image/floodedCar_002.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 29,
+    "fields": {
+        "behavior": 10,
+        "image": "/static/image/floodedCar_003.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 30,
+    "fields": {
+        "behavior": 10,
+        "image": "/static/image/floodedCar_004.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 31,
+    "fields": {
+        "behavior": 11,
+        "image": "/static/image/handWash_001.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 32,
+    "fields": {
+        "behavior": 11,
+        "image": "/static/image/handWash_002.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 33,
+    "fields": {
+        "behavior": 11,
+        "image": "/static/image/handWash_003.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 34,
+    "fields": {
+        "behavior": 11,
+        "image": "/static/image/handWash_004.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 35,
+    "fields": {
+        "behavior": 11,
+        "image": "/static/image/handWash_005.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 36,
+    "fields": {
+        "behavior": 12,
+        "image": "/cardnews/2023/08/11/6-1.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 37,
+    "fields": {
+        "behavior": 12,
+        "image": "/cardnews/2023/08/11/6-2.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 38,
+    "fields": {
+        "behavior": 12,
+        "image": "/cardnews/2023/08/11/6-3.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 39,
+    "fields": {
+        "behavior": 12,
+        "image": "/cardnews/2023/08/11/6-4.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 40,
+    "fields": {
+        "behavior": 12,
+        "image": "/cardnews/2023/08/11/6-5.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 41,
+    "fields": {
+        "behavior": 12,
+        "image": "/cardnews/2023/08/11/6-6.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 42,
+    "fields": {
+        "behavior": 12,
+        "image": "/cardnews/2023/08/11/6-7.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 44,
+    "fields": {
+        "behavior": 13,
+        "image": "/cardnews/2023/08/15/001_x8FcTOn.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 45,
+    "fields": {
+        "behavior": 13,
+        "image": "/cardnews/2023/08/15/002_7ZNT9H9.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 46,
+    "fields": {
+        "behavior": 13,
+        "image": "/cardnews/2023/08/15/003_l6JFO06.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 47,
+    "fields": {
+        "behavior": 13,
+        "image": "/cardnews/2023/08/15/004_V56N48o.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 48,
+    "fields": {
+        "behavior": 14,
+        "image": "/cardnews/2023/08/15/2-1.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 49,
+    "fields": {
+        "behavior": 14,
+        "image": "/cardnews/2023/08/15/2-2.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 50,
+    "fields": {
+        "behavior": 14,
+        "image": "/cardnews/2023/08/15/2-3.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 51,
+    "fields": {
+        "behavior": 14,
+        "image": "/cardnews/2023/08/15/2-4.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 52,
+    "fields": {
+        "behavior": 14,
+        "image": "/cardnews/2023/08/15/2-5.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 53,
+    "fields": {
+        "behavior": 14,
+        "image": "/cardnews/2023/08/15/2-6.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 54,
+    "fields": {
+        "behavior": 15,
+        "image": "/cardnews/2023/08/15/3-1.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 55,
+    "fields": {
+        "behavior": 15,
+        "image": "/cardnews/2023/08/15/3-2.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 56,
+    "fields": {
+        "behavior": 15,
+        "image": "/cardnews/2023/08/15/3-3.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 57,
+    "fields": {
+        "behavior": 15,
+        "image": "/cardnews/2023/08/15/3-4.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 58,
+    "fields": {
+        "behavior": 15,
+        "image": "/cardnews/2023/08/15/3-5.png"
+    }
+},
+{
+    "model": "boards.behaviorimage",
+    "pk": 59,
+    "fields": {
+        "behavior": 15,
+        "image": "/cardnews/2023/08/15/3-6.png"
+    }
+}
+]

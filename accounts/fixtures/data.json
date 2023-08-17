@@ -1,0 +1,107 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$lFs3wQZtHESzufgpwnUnHg$CVEj0fUYmRO+tNNUP/3Zawdp1AUtX5+W6DT+QZASUVU=",
+        "last_login": "2023-08-10T16:20:49.608Z",
+        "username": "hyo",
+        "email": "hyo@naver.com",
+        "user_image": "hyo",
+        "is_admin": true,
+        "is_active": true,
+        "is_staff": true,
+        "is_superuser": true
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$LRZbmivckdk4lAXWnZnyal$5t/8vd4Q1Vqzc+jr7Y2FClVDm4lRBp9vwNhy3yzQH5Q=",
+        "last_login": "2023-08-16T10:43:02.530Z",
+        "username": "parkdahyun",
+        "email": "pdh23991@gmail.com",
+        "user_image": "''",
+        "is_admin": true,
+        "is_active": true,
+        "is_staff": true,
+        "is_superuser": true
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$EhQnoVGIrBOIolwsoFqXvT$nu6Cj5K3yxynjgnV3kypJnI0Fj+0d3FvNir1oxj+kn0=",
+        "last_login": "2023-08-10T10:30:16.749Z",
+        "username": "djqtdj",
+        "email": "jsujyeon@naver.com",
+        "user_image": "board/profile/user.png",
+        "is_admin": false,
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$HOBTCvyARJeGzuEI7litmu$MCejZ38DUjBly/LeWFt5Cr3DEVSNZwkX8BcM0RDDusQ=",
+        "last_login": null,
+        "username": "hh",
+        "email": "johh0588@naver.com",
+        "user_image": "board/profile/user.png",
+        "is_admin": false,
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$8XhNfW0fHXiyiOh3yEl7oh$3PQ2UO023BQRuS1/V7I3rEVsN7s30JTm6xUNWMduO9E=",
+        "last_login": "2023-08-16T11:07:24.674Z",
+        "username": "rlawldus",
+        "email": "jiyeon011004@gmail.com",
+        "user_image": "board/profile/user.png",
+        "is_admin": true,
+        "is_active": true,
+        "is_staff": true,
+        "is_superuser": true
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$FAHJiKGMTsJUkjtV1VjotT$UoWr3r5WhIMRzBJ0ie2j3Y6tblUIA8kGkdfNN3UZESE=",
+        "last_login": null,
+        "username": "rlawldus01",
+        "email": "wldusdl12@naver.com",
+        "user_image": "board/profile/user.png",
+        "is_admin": false,
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$uniMUqtvDkWRXY7a8iNqly$KrxcPlVdUxtm/TFhOc90ktYcjCU7fKF3GK3mwp1A8vA=",
+        "last_login": "2023-08-15T12:10:46.161Z",
+        "username": "na4236519",
+        "email": "na4236519@naver.com",
+        "user_image": "board/profile/user.png",
+        "is_admin": false,
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false
+    }
+}
+]
